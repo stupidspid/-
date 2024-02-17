@@ -1,0 +1,20 @@
+﻿@inject Microsoft.AspNetCore.Hosting.IHostingEnvironment Environment
+
+<div class="d-flex justify-content-center min-vh-100 row" >
+    <h1 class="col d-flex justify-content-center align-items-end" style="min-height: 0">Buy gifts simply</h1>
+    <div class="align-items-center row min-vh-10 max-vw-10 flex-column">
+        <form asp-controller="Products" asp-action="Index" class="justify-content-center d-flex">
+            <button class="btn-success align-items-center mt-5" style="height: 5pc; width: 10pc">Start Shopping</button>
+        </form>
+        
+        @if (Environment.IsDevelopment())
+        {
+            <form asp-controller="Products" asp-action="Create" class="justify-content-center d-flex">
+                <button class="align-items-center btn-primary text-center mt-2" style="height: 5pc; width: 10pc">Create New Product</button>
+            </form>
+            
+        }
+    </div>
+    
+</div>
+

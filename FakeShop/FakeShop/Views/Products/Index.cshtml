@@ -1,0 +1,13 @@
+@model FakeShop.Models.ViewModels.HomeVM
+
+<div class="container">
+    <div class="row">
+        @foreach (var prod in Model.Products)
+        {
+            <partial name="_IndividualProductCard" model="prod">
+        
+            </partial>
+        }
+    </div>
+</div>
+

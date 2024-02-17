@@ -1,0 +1,317 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FakeShop.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FakeShop.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\images\\product\\0986651a-801e-4c43-b2bf-4997a2015f4a_2-13.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\0986651a-801e-4c43-b2bf-4997a2015f4a_2-13.jpg"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\images\\product\\1ce22cc1-cb3d-4ecc-962e-e9f10930fe6a_Рисунок1.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\1ce22cc1-cb3d-4ecc-962e-e9f10930fe6a_Рисунок1.jpg"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\images\\product\\35d4a1b8-5882-4095-a47e-a9dfd73bac18_2-13.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\35d4a1b8-5882-4095-a47e-a9dfd73bac18_2-13.jpg"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\images\\product\\3f0be405-9116-4a7d-a40e-4dd93078daeb_2-13.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\3f0be405-9116-4a7d-a40e-4dd93078daeb_2-13.jpg"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\images\\product\\75bbb1e8-413d-4083-8d15-1b544e8e8d25_Рисунок1.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\75bbb1e8-413d-4083-8d15-1b544e8e8d25_Рисунок1.jpg"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\images\\product\\79d795b0-5d59-4771-aba6-3897f8390826_Рисунок1.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\79d795b0-5d59-4771-aba6-3897f8390826_Рисунок1.jpg"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\images\\product\\7a25cf01-a268-4347-ac3c-c1fc2240705d_Рисунок1.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\7a25cf01-a268-4347-ac3c-c1fc2240705d_Рисунок1.jpg"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\images\\product\\7a30b6b2-7a05-4a78-83c6-a56891d7026b_2-13.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\7a30b6b2-7a05-4a78-83c6-a56891d7026b_2-13.jpg"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\images\\product\\983a5da2-d28e-4136-a88d-f1d377af0f79_2-13.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\983a5da2-d28e-4136-a88d-f1d377af0f79_2-13.jpg"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\images\\product\\a381a8fd-2776-45d7-9648-7634ec891edc_2-13.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\a381a8fd-2776-45d7-9648-7634ec891edc_2-13.jpg"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\images\\product\\b58a524b-3dc1-4e45-ae42-038291c1a8a3_2-13.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\b58a524b-3dc1-4e45-ae42-038291c1a8a3_2-13.jpg"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\images\\product\\efc6c711-ae93-4e87-8776-aeb4bd558e23_2-13.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\efc6c711-ae93-4e87-8776-aeb4bd558e23_2-13.jpg"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\images\\product\\f8351e9b-588f-44ae-ae6c-df3b23e839c6_2-13.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\f8351e9b-588f-44ae-ae6c-df3b23e839c6_2-13.jpg"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\asp\\FakeShop\\FakeShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FakeShop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FakeShop.props",
+      "PackagePath": "build\\FakeShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FakeShop.props",
+      "PackagePath": "buildMultiTargeting\\FakeShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FakeShop.props",
+      "PackagePath": "buildTransitive\\FakeShop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
