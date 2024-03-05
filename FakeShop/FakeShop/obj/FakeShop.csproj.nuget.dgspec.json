@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\asp\\FakeShop\\FakeShop\\FakeShop.csproj": {}
+    "D:\\asp\\FakeShop\\FakeShop\\FakeShop\\FakeShop.csproj": {}
   },
   "projects": {
-    "D:\\asp\\FakeShop\\FakeShop\\FakeShop.csproj": {
+    "D:\\asp\\FakeShop\\FakeShop\\FakeShop\\FakeShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\asp\\FakeShop\\FakeShop\\FakeShop.csproj",
+        "projectUniqueName": "D:\\asp\\FakeShop\\FakeShop\\FakeShop\\FakeShop.csproj",
         "projectName": "FakeShop",
-        "projectPath": "D:\\asp\\FakeShop\\FakeShop\\FakeShop.csproj",
+        "projectPath": "D:\\asp\\FakeShop\\FakeShop\\FakeShop\\FakeShop.csproj",
         "packagesPath": "C:\\Users\\natas\\.nuget\\packages\\",
-        "outputPath": "D:\\asp\\FakeShop\\FakeShop\\obj\\",
+        "outputPath": "D:\\asp\\FakeShop\\FakeShop\\FakeShop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\natas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.1, )"
